@@ -1,0 +1,16 @@
+.zoom:hover{
+    transform: scale(1.1);
+}
+
+.zoom:active {
+    background-color: whitesmoke;
+  }
+
+  .blockButtons{
+      display: block;
+      background-color: #C9CCD5;
+  }
+
+  .blockButtons:focus{
+      border: gray;
+  }
